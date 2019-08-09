@@ -1,0 +1,14 @@
+C:\Users\santa\source\repos\EX 6A - Manipulating Arrays\bin\Debug\EX 6A - Manipulating Arrays.exe.config
+C:\Users\santa\source\repos\EX 6A - Manipulating Arrays\bin\Debug\EX 6A - Manipulating Arrays.exe
+C:\Users\santa\source\repos\EX 6A - Manipulating Arrays\bin\Debug\EX 6A - Manipulating Arrays.pdb
+C:\Users\santa\source\repos\EX 6A - Manipulating Arrays\obj\Debug\EX 6A - Manipulating Arrays.csprojAssemblyReference.cache
+C:\Users\santa\source\repos\EX 6A - Manipulating Arrays\obj\Debug\EX 6A - Manipulating Arrays.csproj.CoreCompileInputs.cache
+C:\Users\santa\source\repos\EX 6A - Manipulating Arrays\obj\Debug\EX 6A - Manipulating Arrays.exe
+C:\Users\santa\source\repos\EX 6A - Manipulating Arrays\obj\Debug\EX 6A - Manipulating Arrays.pdb
+C:\Users\linds\Desktop\EX 6A - Manipulating Arrays\bin\Debug\EX 6A - Manipulating Arrays.exe.config
+C:\Users\linds\Desktop\EX 6A - Manipulating Arrays\bin\Debug\EX 6A - Manipulating Arrays.exe
+C:\Users\linds\Desktop\EX 6A - Manipulating Arrays\bin\Debug\EX 6A - Manipulating Arrays.pdb
+C:\Users\linds\Desktop\EX 6A - Manipulating Arrays\obj\Debug\EX 6A - Manipulating Arrays.csprojAssemblyReference.cache
+C:\Users\linds\Desktop\EX 6A - Manipulating Arrays\obj\Debug\EX 6A - Manipulating Arrays.csproj.CoreCompileInputs.cache
+C:\Users\linds\Desktop\EX 6A - Manipulating Arrays\obj\Debug\EX 6A - Manipulating Arrays.exe
+C:\Users\linds\Desktop\EX 6A - Manipulating Arrays\obj\Debug\EX 6A - Manipulating Arrays.pdb
